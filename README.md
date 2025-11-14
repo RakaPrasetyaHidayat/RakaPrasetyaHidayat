@@ -117,8 +117,7 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=RakaPrasetyaHidayat&icon=2&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=RakaPrasetyaHidayat&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <br/>
