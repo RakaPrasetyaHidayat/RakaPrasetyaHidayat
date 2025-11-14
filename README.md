@@ -5,13 +5,6 @@
 
 <br/>
 
-<!-- SOCIAL BADGES BLACK/GOLD -->
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" height="28"/>
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=D4AF37" height="28"/>
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=D4AF37" height="28"/>
-</div>
-
 ---
 
 <div align="center">
@@ -28,21 +21,24 @@
 
 ## 👤 About Me
 
-Saya adalah **Backend Developer** yang berfokus pada pengembangan API yang efisien, scalable, dan clean-architecture.  
-Saat ini saya masih seorang **pelajar**, dan tergabung dalam **Levana Digital Agency**, sebuah agency **Web & AI Development**.
+I am a **Backend Developer** focused on building scalable, efficient, and well-structured APIs.  
+I'm currently a **student** and a member of **Levana Digital Agency**, a Web & AI development agency.
 
-Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi teknologi baru dan pengembangan backend modern.
+🔗 Levana: https://www.instagram.com/levana.digital  
+📩 Contact Me: https://www.instagram.com/rakaprasetya_h
 
-### ✨ Fokus Utama
+I’m deeply passionate about technology, especially exploring new tools, frameworks, and backend architecture.
+
+### ✨ Main Focus
 - 🔥 Backend Development  
 - ⚙️ API Engineering  
 - 🚀 System Architecture  
 - 🧪 Testing & Documentation  
 
-### ✨ Fakta Singkat
-- 🔭 Sedang mengerjakan beberapa proyek backend  
-- 📚 Saat ini belajar lebih dalam **Cloud Services, API Security, dan AI Integration**  
-- ⚡ Hobi saya adalah mengeksplorasi hal baru dan sangat tertarik dengan dunia coding  
+### ✨ Quick Facts
+- 🔭 Currently working on several backend projects  
+- 📚 Learning more about **Cloud Services, API Security, and AI Integration**  
+- ⚡ I love exploring new things and am highly passionate about coding  
 
 ---
 
@@ -85,6 +81,5 @@ Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi tekno
 <br/>
 
 <div align="center">
-  <h3>✨ Terima kasih sudah mampir — Let's build something great together ✨</h3>
+  <h3>✨ Thanks for visiting — Let's build something great together ✨</h3>
 </div>
-
