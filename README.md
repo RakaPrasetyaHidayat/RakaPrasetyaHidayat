@@ -3,10 +3,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
-<br/>
-
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&right_color=gold&left_color=black"/>
 </div>
