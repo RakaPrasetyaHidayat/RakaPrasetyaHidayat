@@ -7,9 +7,15 @@
 
 <!-- ================== SOCIAL BADGES (BLACK/GOLD) ================== -->
 <div align="center">
+  <a href="https://x.com/KenZan724734415?t=xZlMVB7pD__olFxXU6ZMkg&s=08">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" height="30"/>
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" height="30"/>
+  </a>
+ <a href="https://www.instagram.com/rakaprasetya_h?igsh=MTBrbHprd2pkbXlzMQ==">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" height="30"/>
+  </a>
+   <a href="https://x.com/KenZan724734415?t=xZlMVB7pD__olFxXU6ZMkg&s=08">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=D4AF37" height="30"/>
+   </a>
 </div>
 
 <br/>
