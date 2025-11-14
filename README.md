@@ -62,7 +62,7 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 ---
 
-# 🛠 **Tech Stack (Black & Gold Edition)**
+# 🛠 **Tech Stack**
 
 ### ⚡ **Backend & Frameworks**
 <div>
