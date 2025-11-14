@@ -73,7 +73,7 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 ### ⚡ **Languages**
 <div>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
