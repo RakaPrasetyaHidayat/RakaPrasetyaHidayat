@@ -28,7 +28,7 @@
 
 <p style="font-size:16px;">
 I am a <strong>Backend Developer</strong> focused on building scalable, efficient, and well-structured APIs.  
-Currently, I am a <strong>student</strong> and part of <strong>Levana Digital Agency</strong>, a Web & AI development agency.
+Currently, I am a <strong>student</strong> and part of <strong>Levana Digital Agency</strong
 <br/>
  <br/>
 🔗 Levana Agency: https://www.instagram.com/levana.digital  <br/>
