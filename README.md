@@ -53,7 +53,7 @@ Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi tekno
 ### ⚡ Backend & Frameworks
 <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37"/>
 
 ### ⚡ Languages
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
@@ -65,7 +65,7 @@ Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi tekno
 <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=D4AF37"/>
 
 ### ⚡ Workflow & API Tools
-<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37"/>
@@ -74,7 +74,7 @@ Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi tekno
 
 ---
 
-## 🔥 GitHub Stats (Dark Gold Theme)
+## 🔥 GitHub Stats
 
 <div align="center">
   <img height="200" src="https://streak-stats.demolab.com?user=USERNAME&theme=highcontrast&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=FFFFFF&dates=CCCCCC" />
