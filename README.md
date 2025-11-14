@@ -1,49 +1,90 @@
-<h2 align="left">Hi 👋! My name is Raka Prasetya Hidayat and I'm a Backend Developer </h2>
+<!-- HEADER GIF -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
-###
+<br/>
+
+<!-- SOCIAL BADGES BLACK/GOLD -->
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" height="28"/>
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=D4AF37" height="28"/>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=D4AF37" height="28"/>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&right_color=gold&left_color=black"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h1 align="center">
+  <span style="color:#D4AF37;">✨ Welcome to My Space ✨</span>
+</h1>
 
-###
+---
+
+## 👤 About Me
+
+Saya adalah **Backend Developer** yang berfokus pada pengembangan API yang efisien, scalable, dan clean-architecture.  
+Saat ini saya masih seorang **pelajar**, dan tergabung dalam **Levana Digital Agency**, sebuah agency **Web & AI Development**.
+
+Saya memiliki ketertarikan besar pada dunia teknologi, terutama eksplorasi teknologi baru dan pengembangan backend modern.
+
+### ✨ Fokus Utama
+- 🔥 Backend Development  
+- ⚙️ API Engineering  
+- 🚀 System Architecture  
+- 🧪 Testing & Documentation  
+
+### ✨ Fakta Singkat
+- 🔭 Sedang mengerjakan beberapa proyek backend  
+- 📚 Saat ini belajar lebih dalam **Cloud Services, API Security, dan AI Integration**  
+- ⚡ Hobi saya adalah mengeksplorasi hal baru dan sangat tertarik dengan dunia coding  
+
+---
+
+## 🛠 Tech Stack (Black & Gold Edition)
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+### ⚡ Backend & Frameworks
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
+
+### ⚡ Languages
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
+
+### ⚡ Database & Tools
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=D4AF37"/>
+
+### ⚡ Workflow & API Tools
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🔥 GitHub Stats (Dark Gold Theme)
+
+<div align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=USERNAME&theme=highcontrast&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=FFFFFF&dates=CCCCCC" />
 </div>
 
-###
+---
 
-<br clear="both">
+<br/>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h3>✨ Terima kasih sudah mampir — Let's build something great together ✨</h3>
+</div>
 
-###
