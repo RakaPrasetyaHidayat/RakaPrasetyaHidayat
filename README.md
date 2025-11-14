@@ -108,19 +108,9 @@ I have a strong passion for technology, especially exploring new tools, backend 
 ---
 
 # ✍️ **Random Dev Quote**
+</br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
-<div align="center">
-
 [![](https://visitcount.itsvg.in/api?id=RakaPrasetyaHidayat&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<br/>
-
-<!-- Proudly created with GPRM -->
-
