@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&right_color=gold&left_color=black"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RakaPrasetyaHidayat.RakaPrasetyaHidayat&right_color=gold&left_color=black"/>
 </div>
 
 ---
@@ -38,7 +38,7 @@ I’m deeply passionate about technology, especially exploring new tools, framew
 
 ---
 
-## 🛠 Tech Stack (Black & Gold Edition)
+## 🛠 Tech Stack 
 
 <div align="left">
 
@@ -69,8 +69,7 @@ I’m deeply passionate about technology, especially exploring new tools, framew
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=USERNAME&theme=highcontrast&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=FFFFFF&dates=CCCCCC" />
-</div>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakaPrasetyaHidayat&show_icons=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700)</div>
 
 ---
 
