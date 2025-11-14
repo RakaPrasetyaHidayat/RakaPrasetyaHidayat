@@ -69,7 +69,8 @@ I’m deeply passionate about technology, especially exploring new tools, framew
 ## 🔥 GitHub Stats
 
 <div align="center">
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakaPrasetyaHidayat&show_icons=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700)</div>
+![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=RakaPrasetyaHidayat&show_icons=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700)
+</div>
 
 ---
 
