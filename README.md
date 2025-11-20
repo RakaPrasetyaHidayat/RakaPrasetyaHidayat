@@ -45,33 +45,34 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 ---
 
-# 🚀 **Main Focus**
+#  **Main Focus**
 
-- 🔥 Backend Development  
-- ⚙️ API Engineering  
-- 🚀 System Architecture  
-- 🧪 Testing & API Documentation  
-
----
-
-# ⚡ **Quick Facts**
-
-- 🔭 Working on multiple backend projects  
-- 📚 Currently learning **Cloud Services, API Security, and AI Integration**  
-- ⚡ Love exploring new technologies & passionate about coding  
+-  Backend Development  
+-  API Engineering  
+-  System Architecture  
+-  Testing & API Documentation
+-  
 
 ---
 
-# 🛠 **Tech Stack**
+#  **Quick Facts**
 
-### ⚡ **Backend & Frameworks**
+-  Working on multiple backend projects  
+-  Currently learning **Cloud Services, API Security, and AI Integration**  
+-  Love exploring new technologies & passionate about coding  
+
+---
+
+#  **Tech Stack**
+
+###  **Backend & Frameworks**
 <div>
   <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37"/>
 </div>
 
-### ⚡ **Languages**
+###  **Languages**
 <div>
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
@@ -79,14 +80,14 @@ I have a strong passion for technology, especially exploring new tools, backend 
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
 </div>
 
-### ⚡ **Database & Tools**
+###  **Database & Tools**
 <div>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=D4AF37"/>
 </div>
 
-### ⚡ **Workflow & API Tools**
+###  **Workflow & API Tools**
 <div>
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=D4AF37"/>
@@ -95,7 +96,7 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 ---
 
-# 📊 **GitHub Stats**
+#  **GitHub Stats**
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=RakaPrasetyaHidayat&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -107,7 +108,7 @@ I have a strong passion for technology, especially exploring new tools, backend 
 
 ---
 
-# ✍️ **Random Dev Quote**
+#  **Random Dev Quote**
 </br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
